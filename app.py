@@ -8,11 +8,7 @@ def lambda_handler(event, context):
     InstanceType='t2.micro',
 <<<<<<< HEAD
     KeyName='from ec_2 8:54 test 2',
-    MaxCount=2,
-=======
-    KeyName='from ec_2',
-    MaxCount=2from git terminal,
->>>>>>> 232c82a (test2 termianl)
+    MaxCount=2
     MinCount=2
 )
 
